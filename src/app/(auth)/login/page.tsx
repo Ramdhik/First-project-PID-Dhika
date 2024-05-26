@@ -8,7 +8,7 @@ export default function Login() {
         <Input type="password" label="Password" />
         <Button className="bg-gradient-to-tl from-pink-500 to-yellow-500 ">Login</Button>
         <p>
-          If you don't have an account, please{' '}
+          If you dont have an account, please{' '}
           <Link className="bg-gradient-to-t from-pink-500 to-yellow-500 text-transparent bg-clip-text" href="/register">
             Register
           </Link>
